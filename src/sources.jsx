@@ -14,11 +14,9 @@ import { TfiWrite } from 'react-icons/tfi'
 import {DiReact} from "react-icons/di";
 import {FaNodeJs} from "react-icons/fa";
 import { SiPython } from 'react-icons/si';
-import {SiExpress,SiMongodb} from "react-icons/si";
+import {SiExpress} from "react-icons/si";
 import { SiAppwrite } from 'react-icons/si';
-import { CgFigma } from "react-icons/cg";
-import { TbBrandReactNative } from "react-icons/tb";
-import { SiAdobexd } from "react-icons/si";
+
 
 export const tabs = [
     {name:"About Me",id:'about'},
@@ -229,7 +227,7 @@ export const projects = [
         iconColor: "skyblue",
       },
     ],
-    video: '../src/assets/videos/Hellzone.mp4' // Add the video field here
+    video: '../public/videos/Hellzone.mp4' // Add the video field here
   },
   {
     id:2,
@@ -261,7 +259,7 @@ export const projects = [
         iconColor:"limegreen",
       },
     ],
-    video: '../src/assets/videos/Synapse.mp4'
+    video: '../public/videos/Synapse.mp4'
   },
 ]
 
