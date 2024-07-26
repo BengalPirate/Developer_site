@@ -14,7 +14,7 @@ const About = () => {
                     I am a Computer Engineering Student at Jackson State University
                     with an interest in Full Stack Development (Web and Mobile), 
                     Cybersecurity, Hardware PCB design, Robotics, Artifical Intelligence, and Business 
-                    Developemnt. I have won awards in 3 separate hackathons including first place in 
+                    Development. I have won awards in 3 separate hackathons including first place in 
                     the Fall 2023 BE-Smart Hackathon Hosted by American Airlines. 
                 </h4>
             </div>
