@@ -1,7 +1,7 @@
 //import React from 'react'
 import "./Hero.css"
 import { Link } from 'react-scroll'
-import me from '../../assets/me.png'
+import me from '../../../public/assets/me.png'
 import Achievement from '../../Commons/Achievement'
 
 const Hero = () => {

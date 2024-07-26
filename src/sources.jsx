@@ -1,8 +1,8 @@
-import client1 from "./assets/client-1.jpeg";
-import client2 from "./assets/client-2.jpeg";
-import client3 from "./assets/client-3.jpeg";
-import client4 from "./assets/client-4.jpeg";
-import client5 from "./assets/client-5.jpeg";
+import client1 from "./../public/assets/client-1.jpeg";
+import client2 from "./../public/assets/client-2.jpeg";
+import client3 from "./../public/assets/client-3.jpeg";
+import client4 from "./../public/assets/client-4.jpeg";
+import client5 from "./../public/assets/client-5.jpeg";
 import { IoMdAnalytics} from "react-icons/io";
 import { IoCallOutline ,IoLocationOutline } from "react-icons/io5";
 import { GrUserExpert } from "react-icons/gr";
@@ -227,7 +227,7 @@ export const projects = [
         iconColor: "skyblue",
       },
     ],
-    video: '../public/videos/Hellzone.mp4' // Add the video field here
+    video: '../public/assets/videos/Hellzone.mp4' // Add the video field here
   },
   {
     id:2,
@@ -259,7 +259,7 @@ export const projects = [
         iconColor:"limegreen",
       },
     ],
-    video: '../public/videos/Synapse.mp4'
+    video: '../public/assets/videos/Synapse.mp4'
   },
 ]
 
